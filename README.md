@@ -5,7 +5,8 @@
 <!--UNORDERED LIST + EMOJIS USING  - & : : -->
 - :📲: Phone :6283119343
 - :📧: E-mail:tashneetkaur343@gmail.com
----<!--HORIZONTAL RULE-->
+
+--- <!--HORIZONTAL RULE-->
 <!--BOLD TEXT USING **-->
 **Experience**
 ---
