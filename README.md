@@ -54,5 +54,7 @@ Tshnt | 17
 s="python syntax highlighting"
 print s
 ```
-hlo tashneet ==how are you==.
+ - [x] task1 
+ - [ ] task2
+ - [x] task3
 
