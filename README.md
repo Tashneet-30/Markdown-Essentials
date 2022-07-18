@@ -58,3 +58,11 @@ print s
  - [ ] task2
  - [x] task3
 
+HTML fragment:
+
+pandoc MANUAL.txt -o example1.html
+
+Standalone HTML file:
+
+pandoc -s MANUAL.txt -o example2.html
+
