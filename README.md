@@ -54,7 +54,5 @@ Tshnt | 17
 s="python syntax highlighting"
 print s
 ```
-
-X^2^
-h~2~o
+hlo tashneet ==how are you==
 
