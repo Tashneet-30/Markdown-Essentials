@@ -52,5 +52,7 @@ Tshnt | 17
 
 ``` python
 s="python syntax highlighting"
-print s ```
+print s
+```
+
 tashneet^2
