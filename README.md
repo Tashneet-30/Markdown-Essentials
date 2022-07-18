@@ -54,5 +54,5 @@ Tshnt | 17
 s="python syntax highlighting"
 print s
 ```
-hlo tashneet ==how are you==
+hlo tashneet ==how are you==.
 
